@@ -1,0 +1,31 @@
+# Sistemas e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Arquivos locais e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+temp/
+tmp/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+credentials*.json
+service-account*.json
+
+# Dependências e builds acidentais
+node_modules/
+dist/
+build/
+coverage/

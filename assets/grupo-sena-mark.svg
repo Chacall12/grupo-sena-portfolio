@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="105 80 330 340" role="img" aria-labelledby="title description">
+  <title id="title">Símbolo do Grupo SENA</title>
+  <desc id="description">Capitel e faixa dourados sobre colunas em azul-marinho.</desc>
+  <g fill="none">
+    <polygon points="120,95 380,95 365,108 135,108" fill="#B88939"/>
+    <rect x="135" y="108" width="230" height="9" fill="#B88939"/>
+    <rect x="150" y="119" width="200" height="7" fill="#0D2040"/>
+    <rect x="152" y="138" width="22" height="236" rx="1" fill="#0D2040"/>
+    <rect x="326" y="138" width="22" height="236" rx="1" fill="#0D2040"/>
+    <path d="M178 138H242V374H178Z" fill="#0D2040"/>
+    <path d="M258 138H322V374H258Z" fill="#0D2040"/>
+    <path d="M210 138s20 0 20 18v42c-10-4-30-8-40-10v-32c0-18 20-18 20-18Z" fill="#FAF8F5"/>
+    <path d="M290 138s20 0 20 18v70c-10-2-30-6-40-8v-62c0-18 20-18 20-18Z" fill="#FAF8F5"/>
+    <rect x="246" y="138" width="8" height="90" fill="#FAF8F5"/>
+    <path d="M158 138h14v44l-14-4Z" fill="#FAF8F5"/>
+    <path d="M328 138h14v104l-14-4Z" fill="#FAF8F5"/>
+    <path d="M210 374s-20 0-20-18v-44c10 4 30 8 40 12v32c0 18-20 18-20 18Z" fill="#FAF8F5"/>
+    <path d="M290 374s-20 0-20-18v-72c10 2 30 6 40 10v62c0 18-20 18-20 18Z" fill="#FAF8F5"/>
+    <rect x="246" y="280" width="8" height="94" fill="#FAF8F5"/>
+    <path d="M158 374h14V270l-14-4Z" fill="#FAF8F5"/>
+    <path d="M328 374h14v-44l-14 4Z" fill="#FAF8F5"/>
+    <path d="M142 145c-10 40 0 83 28 113 36 37 94 57 158 70 47 10 84 40 96 72 8-52-18-98-50-128-40-37-102-56-158-72-38-11-68-26-74-55Z" fill="#FAF8F5"/>
+    <path d="M156 160c-10 35 0 74 26 102 34 34 88 52 148 64 42 8 74 34 84 62 6-44-16-84-46-112-38-36-94-54-146-70-34-10-60-24-66-46Z" fill="#B88939"/>
+    <rect x="150" y="374" width="200" height="7" fill="#0D2040"/>
+    <rect x="135" y="383" width="230" height="9" fill="#0D2040"/>
+    <polygon points="135,392 365,392 380,405 120,405" fill="#0D2040"/>
+  </g>
+</svg>
